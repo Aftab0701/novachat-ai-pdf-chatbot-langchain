@@ -6,7 +6,7 @@ Developed by **Aftab**.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Dynamic Ingestion Graph**: Efficiently parse and index PDF documents into a Supabase vector store.
 - **Advanced Retrieval Graph**: Intelligent routing logic that decides whether to retrieve context or provide direct answers.
@@ -16,7 +16,7 @@ Developed by **Aftab**.
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 ```ascii
 ┌─────────────────────┐    1. Upload PDFs    ┌───────────────────────────┐
@@ -35,7 +35,7 @@ Developed by **Aftab**.
 
 ---
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 1. **Node.js v18+** (v20 recommended)
 2. **Yarn** or **npm**
@@ -63,7 +63,7 @@ Developed by **Aftab**.
 
 ---
 
-## 💻 Local Development
+## Local Development
 
 This project uses **Turborepo** to manage the monorepo.
 
@@ -83,7 +83,7 @@ yarn dev
 
 ---
 
-## 📄 Usage
+## Usage
 
 1. **Ingest Documents**: Click the paperclip icon to upload PDFs. NovaChat AI will process and store them.
 2. **Chat**: Ask questions related to your documents. The AI will cite sources for its answers.
@@ -91,8 +91,8 @@ yarn dev
 
 ---
 
-## 🛡️ License
+## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-Developed with ❤️ by [Aftab](https://github.com/your-github-username).
+Developed with by [Aftab](https://github.com/Aftab0701).
